@@ -15,8 +15,11 @@ The dataset includes Sephora product information and customer reviews, such as:
 - Product categories and brands
 - Pricing information
 - Customer ratings and reviews
+<br>
 Link to dataset:
+<br>
 https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews?select=product_info.csv
+<br>
 *Note: This dataset was used for academic purposes.*
 
 ## Tools & Technologies
