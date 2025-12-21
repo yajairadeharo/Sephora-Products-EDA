@@ -22,6 +22,9 @@ https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews?s
 <br>
 *Note: This dataset was used for academic purposes.*
 
+## Environment
+- Python 3.10+ (Anaconda distribution)
+
 ## Tools & Technologies
 - Python (Pandas, NumPy)
 - Data visualization (Matplotlib, Seaborn)
